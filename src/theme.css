@@ -19,7 +19,8 @@ html {
     --nimiq-green-darkened:      #20B29E; /* rgb(33, 188, 165) */
     --nimiq-orange-darkened:     #FC7500; /* rgb(252, 135, 2) */
     --nimiq-red-darkened:        #D13030; /* rgb(216, 65, 51) */
-    
+    --nimiq-gold-darkened:     #E9B213; /* No darkened gold exist, please fix */
+
     /* Background gradients */
     --nimiq-blue-bg:       radial-gradient(ellipse at bottom right, #260133, var(--nimiq-blue));
     --nimiq-light-blue-bg: radial-gradient(ellipse at bottom right, #265DD7, var(--nimiq-light-blue));
@@ -38,6 +39,7 @@ html {
     --nimiq-green-bg-darkened:      radial-gradient(ellipse at bottom right, #3D9988, var(--nimiq-green-darkened));
     --nimiq-orange-bg-darkened:     radial-gradient(ellipse at bottom right, #EA5200, var(--nimiq-orange-darkened));
     --nimiq-red-bg-darkened:        radial-gradient(ellipse at bottom right, #BF2D46, var(--nimiq-red-darkened));
+    --nimiq-gold-bg-darkened:     #E9B213; /* No darkened gold exist, please fix */
 
     /* Special colors */
     --nimiq-highlight-bg: rgba(31, 35, 72, 0.06); /* Based on Nimiq Blue */
